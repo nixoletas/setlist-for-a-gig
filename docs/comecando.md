@@ -1,4 +1,4 @@
-# Guia de Introdução ao Docusaurus
+# Introdução à documentação da STI
 
 Este guia irá ajudá-lo a começar a usar o Docusaurus, uma ferramenta de código aberto que facilita a criação de sites de documentação.
 
