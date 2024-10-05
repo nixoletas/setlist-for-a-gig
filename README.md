@@ -2,7 +2,7 @@
 
 Construído usando [Docusaurus](https://docusaurus.io/), um moderno gerador de sites (principalmente de documentação).
 
-### Instalaçõa
+### Instalação
 
 ```
 npm install
