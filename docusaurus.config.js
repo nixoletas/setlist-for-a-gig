@@ -100,46 +100,42 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Scripts',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Logar CTA',
                 to: '/docs/comecando',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Acesso avançado e VPN',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Internet',
+                to: '/docs/Acesso-Internet-e-VPN/internet',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'VPN',
+                to: '/docs/Acesso-Internet-e-VPN/vpn',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'regras',
+                to: '/docs/Acesso-Internet-e-VPN/vpn',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Mais',
             items: [
               {
                 label: 'Blog',
                 to: '/blog',
               },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Índice de conteúdo`,
       },
       prism: {
         theme: prismThemes.github,
