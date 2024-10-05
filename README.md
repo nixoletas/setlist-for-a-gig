@@ -1,41 +1,32 @@
-# Website
+# Site de documentação da Seção de Tecnologia da Informação
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Construído usando [Docusaurus](https://docusaurus.io/), um moderno gerador de sites (principalmente de documentação).
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
+### Instalação
 
 ```
-$ yarn start
+npm install
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+### Desenvolvimento local
+
+```
+npm run start
+```
+
+Para a barra de pesquisa funcionar e para uma versão otimizada, é necessário fazer o build
 
 ### Build
 
 ```
-$ yarn build
+npm run build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
+Rodar o build
 ```
-$ USE_SSH=true yarn deploy
+npm run serve
 ```
 
-Not using SSH:
+### Como utilizar
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Recomendo a leitura da documentação oficial do Docusaurus! mas basicamente você pode criar arquivos ".md" dentro de pages, ou blog, ou docs, e serão criadas rotas automaticamente para aquele Markdown! Isso é massa! ⭐
