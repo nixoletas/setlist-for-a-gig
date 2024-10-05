@@ -14,6 +14,8 @@ npm install
 npm run start
 ```
 
+Barra de pesquisa utilizada: [https://github.com/easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local)
+
 Para a barra de pesquisa funcionar e para uma versão otimizada, é necessário fazer o build
 
 ### Build
