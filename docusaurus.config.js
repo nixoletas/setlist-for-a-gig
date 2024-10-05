@@ -94,7 +94,7 @@ const config = {
             position: 'left',
             label: 'Scripts',
           },
-          {to: '/blog', label: 'Sistemas', position: 'left'},
+          {to: '/blog', label: 'Blog da STI', position: 'left'},
         ],
       },
       footer: {
