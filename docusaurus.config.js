@@ -82,6 +82,10 @@ const config = {
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Seção de Tecnologia da Informação',
+        logo: {
+          alt: 'Logo do site',
+          src: 'img/docs-svgrepo-com.svg',
+        },
         items: [
           {
             type: 'docSidebar',
