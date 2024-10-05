@@ -14,7 +14,7 @@ npm install
 npm run start
 ```
 
-Para a barra de pesquisa e para uma versão otimizada, é necessário fazer o build
+Para a barra de pesquisa funcionar e para uma versão otimizada, é necessário fazer o build
 
 ### Build
 
