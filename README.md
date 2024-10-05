@@ -1,6 +1,6 @@
 # Site de documentação da Seção de Tecnologia da Informação
 
-Construído usando [Docusaurus](https://docusaurus.io/), um moderno gerador de sites (de documentação).
+Construído usando [Docusaurus](https://docusaurus.io/), um moderno gerador de sites (principalmente de documentação).
 
 ### Instalaçõa
 
