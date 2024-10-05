@@ -5,9 +5,7 @@ authors: nixoletas
 tags: [hello, docusaurus, sti]
 ---
 
-This is the summary of a very long blog post,
-
-Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
+Olá pessoal, me chamo Nicholas e sou o chefe da STI!
 
 <!-- truncate -->
 
