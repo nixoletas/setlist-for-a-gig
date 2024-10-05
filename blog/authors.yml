@@ -30,8 +30,3 @@ nixoletas:
   page:
     # customize the url of the author page at /blog/authors/<permalink>
     permalink: '/all-nixoletas-articles'
-  socials:
-    x: nixoletas
-    linkedin: nixoletas
-    github: nixoletas
-    newsletter: https://youtube.com/nixoletas
