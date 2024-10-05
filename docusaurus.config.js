@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Documentação',
+  title: 'Documentação da STI',
   tagline: '[Ctrl + k] para pesquisar',
   favicon: 'img/favicon.ico',
 
@@ -100,7 +100,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/comecando',
               },
             ],
           },
