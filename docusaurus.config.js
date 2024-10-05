@@ -30,8 +30,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'pt-br',
-    locales: ['pt-br'],
+    defaultLocale: 'pt-BR',
+    locales: ['en','pt-BR'],
   },
 
   presets: [
@@ -72,6 +72,7 @@ const config = {
       require.resolve("@easyops-cn/docusaurus-search-local"),
       ({
         hashed: true,
+        language: ["pt"],
       }),
     ],
   ],
@@ -113,15 +114,15 @@ const config = {
             items: [
               {
                 label: 'Internet',
-                to: '/docs/Acesso-Internet-e-VPN/internet',
+                to: '/docs/acesso/internet',
               },
               {
                 label: 'VPN',
-                to: '/docs/Acesso-Internet-e-VPN/vpn',
+                to: '/docs/acesso/vpn',
               },
               {
                 label: 'regras',
-                to: '/docs/Acesso-Internet-e-VPN/vpn',
+                to: '/docs/acesso/vpn',
               },
             ],
           },

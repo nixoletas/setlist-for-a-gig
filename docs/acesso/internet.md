@@ -1,7 +1,3 @@
----
-title: Create a doc page with rich content.
----
-
 # Guia de Acesso Internet
 
 Este guia mostra como configurar e obter acesso à VPN usando o FortiClient.
