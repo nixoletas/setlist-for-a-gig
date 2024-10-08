@@ -1,4 +1,4 @@
 # Setlist
 
-- [Sublime - Santeria](./sublime-santeria.md)
+- [Sublime - Santeria](./santeria.md)
 - [Arctic Monkeys - Fluorescent Adolescent](./fluorescent-adolescent.md)
