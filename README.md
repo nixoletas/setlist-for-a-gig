@@ -1,6 +1,8 @@
-# Site de documentação da Seção de Tecnologia da Informação
+# Docusaurus of songs i can play (For a setlist)
 
-Construído usando [Docusaurus](https://docusaurus.io/), um moderno gerador de sites (principalmente de documentação).
+Made using [Docusaurus](https://docusaurus.io/).
+
+I'm sick and tired of tab websites, decided to use the amazing Docusaurus to build my own
 
 ### Instalação
 
