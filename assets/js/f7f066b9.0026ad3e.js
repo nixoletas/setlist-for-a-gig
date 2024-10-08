@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[255],{8550:s=>{s.exports=JSON.parse('{"tags":[{"label":"arctic monkeys","permalink":"/setlist-for-a-gig/docs/tags/arctic-monkeys","count":1},{"label":"sublime","permalink":"/setlist-for-a-gig/docs/tags/sublime","count":1}]}')}}]);
