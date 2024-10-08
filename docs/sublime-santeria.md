@@ -1,5 +1,6 @@
 ---
-title: Sublime - Santeria
+title: Santeria
+tags: [sublime]
 ---
 
 
