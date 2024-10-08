@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Documentação da STI',
-  tagline: '[Ctrl + k] para pesquisar',
+  title: 'Setlist for a gig',
+  tagline: "Let's rock! 🤘",
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -30,8 +30,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'pt-BR',
-    locales: ['en','pt-BR'],
+    defaultLocale: 'en',
+    locales: ['en'],
   },
 
   presets: [
@@ -73,7 +73,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Seção de Tecnologia da Informação',
+        title: 'Setlist for a gig',
         logo: {
           alt: 'Logo do site',
           src: 'img/docs-svgrepo-com.svg',
@@ -83,51 +83,24 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Scripts',
+            label: 'Songs',
           },
-          {to: '/blog', label: 'Blog da STI', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
         ],
       },
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Scripts',
-            items: [
-              {
-                label: 'Logar CTA',
-                to: '/docs/comecando',
-              },
-            ],
-          },
-          {
-            title: 'Acesso avançado e VPN',
-            items: [
-              {
-                label: 'Internet',
-                to: '/docs/acesso/internet',
-              },
-              {
-                label: 'VPN',
-                to: '/docs/acesso/vpn',
-              },
-              {
-                label: 'regras',
-                to: '/docs/acesso/vpn',
-              },
-            ],
-          },
-          {
-            title: 'Mais',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-            ],
-          },
+        //  {
+        //    title: 'Mais',
+        //    items: [
+        //      {
+        //        label: 'Blog',
+        //        to: '/blog',
+        //      },
+        //    ],
+        //  },
         ],
-        copyright: `Índice de conteúdo`,
       },
       prism: {
         theme: prismThemes.github,
