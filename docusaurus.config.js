@@ -76,7 +76,7 @@ const config = {
         title: 'Setlist for a gig',
         logo: {
           alt: 'Logo do site',
-          src: 'img/docs-svgrepo-com.svg',
+          src: 'img/rock-svgrepo-com.svg',
         },
         items: [
           {
