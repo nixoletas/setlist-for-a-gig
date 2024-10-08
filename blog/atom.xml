@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://nixoletas.github.io/setlist-for-a-gig/blog</id>
+    <title>Setlist for a gig Blog</title>
+    <updated>2024-10-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://nixoletas.github.io/setlist-for-a-gig/blog"/>
+    <subtitle>Setlist for a gig Blog</subtitle>
+    <icon>https://nixoletas.github.io/setlist-for-a-gig/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello from Nixoletas]]></title>
+        <id>https://nixoletas.github.io/setlist-for-a-gig/blog/hello-from-nixoletas</id>
+        <link href="https://nixoletas.github.io/setlist-for-a-gig/blog/hello-from-nixoletas"/>
+        <updated>2024-10-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello! This blog should be used to post songs i should learn next!]]></summary>
+        <content type="html"><![CDATA[<p>Hello! This blog should be used to post songs i should learn next!</p>]]></content>
+        <author>
+            <name>nixoletas</name>
+            <uri>https://nixoletas.vercel.app</uri>
+        </author>
+        <category label="Hello" term="Hello"/>
+        <category label="rock" term="rock"/>
+    </entry>
+</feed>
