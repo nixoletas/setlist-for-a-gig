@@ -18,7 +18,8 @@ const sidebars = {
 
   tutorialSidebar: [
    'intro',
-   'santeria'
+   'santeria',
+   'fluorescent-adolescent'
    //{
    //  type: 'category',
    //  label: 'Acesso Avançado e VPN',
