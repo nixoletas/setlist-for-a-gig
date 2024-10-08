@@ -16,12 +16,12 @@ const config = {
   url: 'https://nixoletas.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docusaurus-local-search-template',
+  baseUrl: '/setlist-for-a-gig',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'nixoletas', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-local-search-template', // Usually your repo name.
+  projectName: 'setlist-for-a-gig', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
