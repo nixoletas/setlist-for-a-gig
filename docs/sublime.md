@@ -1,8 +1,13 @@
 ---
-title: Santeria
-tags: [sublime, en, reggae]
+title: Sublime
+tags: [en, reggae, ska-punk]
 ---
 
+import TOCInline from '@theme/TOCInline';
+
+<TOCInline toc={toc} />
+
+## Santeria
 
 I don't practice Santeria
 I ain't got no crystal ball

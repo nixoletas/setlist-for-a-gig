@@ -53,6 +53,10 @@ const config = {
           onUntruncatedBlogPosts: 'warn',
         },
         theme: {
+          tableOfContents: {
+            minHeadingLevel: 2,
+            maxHeadingLevel: 5,
+          },
           customCss: './src/css/custom.css',
         },
       }),
