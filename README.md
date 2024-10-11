@@ -1,4 +1,4 @@
-# Docusaurus of songs i can play (For a setlist)
+# Docusaurus of songs i can play
 
 Made using [Docusaurus](https://docusaurus.io/).
 
