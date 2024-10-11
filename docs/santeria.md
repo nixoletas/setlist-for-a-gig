@@ -1,6 +1,6 @@
 ---
 title: Santeria
-tags: [sublime]
+tags: [sublime, en, reggae]
 ---
 
 

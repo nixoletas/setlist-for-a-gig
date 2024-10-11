@@ -1,6 +1,6 @@
 ---
 title: Fluorescent Adolescent
-tags: [arctic monkeys]
+tags: [arctic monkeys, indie, en]
 ---
 
 You used to get it in your fishnets
