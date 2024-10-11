@@ -2,23 +2,23 @@
 
 Made using [Docusaurus](https://docusaurus.io/).
 
-I'm sick and tired of tab websites, decided to use the amazing Docusaurus to build my own
+I'm sick and tired of chords and tabs websites, decided to use the amazing Docusaurus to build my own.
 
-### Instalação
+### Install
 
 ```
 npm install
 ```
 
-### Desenvolvimento local
+### Local dev
 
 ```
 npm run start
 ```
 
-Barra de pesquisa utilizada: [https://github.com/easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local)
+Searchbar repo: [https://github.com/easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local)
 
-Para a barra de pesquisa funcionar e para uma versão otimizada, é necessário fazer o build
+For the searchbar to work, you need to build & serve
 
 ### Build
 
@@ -26,11 +26,11 @@ Para a barra de pesquisa funcionar e para uma versão otimizada, é necessário 
 npm run build
 ```
 
-Rodar o build
+Serve
 ```
 npm run serve
 ```
 
-### Como utilizar
+### How to use
 
-Recomendo a leitura da documentação oficial do Docusaurus! mas basicamente você pode criar arquivos ".md" dentro de pages, ou blog, ou docs, e serão criadas rotas automaticamente para aquele Markdown! Isso é massa! ⭐
+I recommend reading the official Docusaurus documentation! but basically you can create ".md" files inside pages, or blogs, or docs, and routes will be automatically created for that Markdown! That's awesome! ⭐
